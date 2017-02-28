@@ -1,0 +1,19 @@
+{
+  "name": "rene_solano_mejia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahopp23/rene_solano_mejia.git"
+  },
+  "author": "John A. Hopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahopp23/rene_solano_mejia/issues"
+  },
+  "homepage": "https://github.com/jahopp23/rene_solano_mejia#readme"
+}

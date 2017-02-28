@@ -1,0 +1,32 @@
+ul li{
+	list-style-type: none;
+	display: inline;
+	margin: 3.00em;
+
+}
+
+.row h1{
+	text-align: center;
+	padding-top: 1.00em;
+	padding-bottom: 1.00em;
+}
+
+.link-row{
+	text-align: center;
+}
+
+.pic-row{
+	text-align: center;
+}
+
+.pic-row img{
+	height: 500px;
+	width: 500px;
+	padding-top: 3.00em;
+	padding-bottom: 3.00em;
+}
+
+footer {
+	text-align: center;
+	padding-top: 3.00em;
+}
