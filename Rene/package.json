@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jahopp23/rene_solano_mejia/issues"
   },
-  "homepage": "https://github.com/jahopp23/rene_solano_mejia#readme"
+  "homepage": "https://github.com/jahopp23/rene_solano_mejia#readme",
+  "dependencies": {
+    "react-bootstrap": "^0.30.7"
+  }
 }

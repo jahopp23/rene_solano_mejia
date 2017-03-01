@@ -1,12 +1,16 @@
 ul li{
 	list-style-type: none;
 	display: inline;
-	margin: 3.00em;
+	margin: 1.00em;
+
+	font-size: 1.00em;
 
 }
 
 .row h1{
 	text-align: center;
+    font-family: arial;
+    font-size: 3.50em;
 	padding-top: 1.00em;
 	padding-bottom: 1.00em;
 }
@@ -20,13 +24,16 @@ ul li{
 }
 
 .pic-row img{
-	height: 500px;
-	width: 500px;
+
+
 	padding-top: 3.00em;
-	padding-bottom: 3.00em;
+	padding-bottom: 6.00em;
+	height: 550px;
+	width: 500px;
+
 }
 
 footer {
 	text-align: center;
-	padding-top: 3.00em;
+	padding-top: 6.00em;
 }
