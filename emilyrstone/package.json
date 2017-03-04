@@ -1,0 +1,19 @@
+{
+  "name": "emilyrstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahopp23/emilyrstone.git"
+  },
+  "author": "john a. hopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahopp23/emilyrstone/issues"
+  },
+  "homepage": "https://github.com/jahopp23/emilyrstone#readme"
+}
